@@ -1,0 +1,248 @@
+===== RANDOM FOREST REGRESSOR =====
+Car Name                  | Actual MPG | Predicted MPG
+-------------------------------------------------------
+renault 12 (sw)           |      26.00 |         26.20
+saab 99gle                |      21.60 |         22.29
+honda civic cvcc          |      36.10 |         34.05
+plymouth cricket          |      26.00 |         30.01
+ford mustang gl           |      27.00 |         26.45
+toyota corolla            |      28.00 |         28.20
+ford country squire (sw)  |      13.00 |         12.92
+toyota corolla liftback   |      26.00 |         28.49
+plymouth valiant custom   |      19.00 |         19.58
+fiat 128                  |      29.00 |         30.84
+amc ambassador dpl        |      15.00 |         14.11
+toyota mark ii            |      19.00 |         20.17
+buick estate wagon (sw)   |      16.90 |         15.73
+toyota corolla            |      29.00 |         27.29
+peugeot 604sl             |      16.20 |         19.03
+chevrolet cavalier        |      28.00 |         29.39
+plymouth duster           |      20.00 |         19.91
+toyota corolla            |      32.40 |         33.15
+amc spirit dl             |      27.40 |         28.46
+triumph tr7 coupe         |      35.00 |         31.25
+plymouth duster           |      22.00 |         20.80
+vw pickup                 |      44.00 |         39.30
+mazda glc 4               |      34.10 |         33.31
+chevrolet chevelle malibu |      18.00 |         16.26
+volkswagen dasher         |      26.00 |         31.02
+fiat 124 sport coupe      |      26.00 |         24.41
+peugeot 504 (sw)          |      21.00 |         19.95
+plymouth satellite custom |      16.00 |         18.55
+volkswagen super beetle   |      26.00 |         27.80
+volkswagen 411 (sw)       |      22.00 |         23.46
+chevrolet bel air         |      15.00 |         14.69
+amc concord               |      19.40 |         19.98
+chevrolet malibu classic (sw) |      19.20 |         20.22
+mazda 626                 |      31.60 |         30.92
+chevrolet caprice classic |      13.00 |         13.66
+datsun 310 gx             |      38.00 |         34.30
+ford gran torino (sw)     |      14.00 |         13.44
+dodge colt hardtop        |      25.00 |         27.51
+ford gran torino (sw)     |      13.00 |         14.55
+ford f250                 |      10.00 |         11.77
+chevrolet chevelle concours (sw) |      13.00 |         14.91
+fiat 128                  |      24.00 |         28.97
+volkswagen rabbit l       |      36.00 |         34.28
+opel manta                |      26.00 |         26.43
+ford ltd                  |      14.00 |         14.60
+chrysler new yorker brougham |      13.00 |         11.66
+pontiac firebird          |      19.00 |         17.74
+fiat strada custom        |      37.30 |         35.53
+chevrolet vega            |      21.00 |         23.32
+vw rabbit                 |      29.00 |         31.12
+ford galaxie 500          |      14.00 |         14.13
+toyota corona hardtop     |      24.00 |         23.37
+chevrolet vega 2300       |      28.00 |         23.38
+nissan stanza xe          |      36.00 |         34.70
+ford granada l            |      22.00 |         28.01
+amc matador               |      16.00 |         16.27
+chevrolet monza 2+2       |      20.00 |         18.78
+amc gremlin               |      20.00 |         19.24
+saab 99e                  |      25.00 |         24.12
+toyota corona             |      25.00 |         24.12
+buick electra 225 custom  |      12.00 |         11.75
+amc hornet                |      22.50 |         19.58
+oldsmobile omega brougham |      26.80 |         25.24
+peugeot 504               |      23.00 |         21.86
+toyota celica gt liftback |      21.10 |         26.29
+opel 1900                 |      25.00 |         26.45
+ford fairmont (man)       |      25.10 |         24.89
+volkswagen rabbit         |      29.00 |         31.17
+oldsmobile cutlass salon brougham |      19.90 |         19.24
+ford galaxie 500          |      15.00 |         13.68
+chevrolet vega (sw)       |      22.00 |         23.66
+buick century 350         |      13.00 |         13.14
+datsun 810                |      22.00 |         22.37
+maxda rx3                 |      18.00 |         26.99
+chrysler lebaron salon    |      17.60 |         24.08
+dodge colt (sw)           |      28.00 |         26.43
+chevrolet monte carlo s   |      15.00 |         13.75
+amc rebel sst             |      16.00 |         16.73
+datsun pl510              |      27.00 |         26.98
+
+===== SUPPORT VECTOR REGRESSION (SVM) =====
+Car Name                  | Actual MPG | Predicted MPG
+-------------------------------------------------------
+renault 12 (sw)           |      26.00 |         30.92
+saab 99gle                |      21.60 |         23.18
+honda civic cvcc          |      36.10 |         32.44
+plymouth cricket          |      26.00 |         28.26
+ford mustang gl           |      27.00 |         25.79
+toyota corolla            |      28.00 |         30.83
+ford country squire (sw)  |      13.00 |         13.36
+toyota corolla liftback   |      26.00 |         30.97
+plymouth valiant custom   |      19.00 |         19.15
+fiat 128                  |      29.00 |         31.94
+amc ambassador dpl        |      15.00 |         15.13
+toyota mark ii            |      19.00 |         23.56
+buick estate wagon (sw)   |      16.90 |         14.61
+toyota corolla            |      29.00 |         30.60
+peugeot 604sl             |      16.20 |         18.92
+chevrolet cavalier        |      28.00 |         26.22
+plymouth duster           |      20.00 |         20.02
+toyota corolla            |      32.40 |         30.45
+amc spirit dl             |      27.40 |         27.18
+triumph tr7 coupe         |      35.00 |         27.18
+plymouth duster           |      22.00 |         20.91
+vw pickup                 |      44.00 |         27.49
+mazda glc 4               |      34.10 |         31.63
+chevrolet chevelle malibu |      18.00 |         17.00
+volkswagen dasher         |      26.00 |         31.49
+fiat 124 sport coupe      |      26.00 |         28.18
+peugeot 504 (sw)          |      21.00 |         26.45
+plymouth satellite custom |      16.00 |         18.42
+volkswagen super beetle   |      26.00 |         30.78
+volkswagen 411 (sw)       |      22.00 |         28.94
+chevrolet bel air         |      15.00 |         14.66
+amc concord               |      19.40 |         19.34
+chevrolet malibu classic (sw) |      19.20 |         17.08
+mazda 626                 |      31.60 |         29.88
+chevrolet caprice classic |      13.00 |         14.33
+datsun 310 gx             |      38.00 |         31.79
+ford gran torino (sw)     |      14.00 |         15.65
+dodge colt hardtop        |      25.00 |         28.94
+ford gran torino (sw)     |      13.00 |         15.75
+ford f250                 |      10.00 |         14.08
+chevrolet chevelle concours (sw) |      13.00 |         15.86
+fiat 128                  |      24.00 |         30.39
+volkswagen rabbit l       |      36.00 |         30.65
+opel manta                |      26.00 |         29.08
+ford ltd                  |      14.00 |         14.32
+chrysler new yorker brougham |      13.00 |         14.07
+pontiac firebird          |      19.00 |         18.70
+fiat strada custom        |      37.30 |         30.60
+chevrolet vega            |      21.00 |         27.18
+vw rabbit                 |      29.00 |         30.70
+ford galaxie 500          |      14.00 |         14.45
+toyota corona hardtop     |      24.00 |         27.77
+chevrolet vega 2300       |      28.00 |         27.22
+nissan stanza xe          |      36.00 |         28.35
+ford granada l            |      22.00 |         19.78
+amc matador               |      16.00 |         17.70
+chevrolet monza 2+2       |      20.00 |         18.40
+amc gremlin               |      20.00 |         19.66
+saab 99e                  |      25.00 |         27.44
+toyota corona             |      25.00 |         27.12
+buick electra 225 custom  |      12.00 |         14.94
+amc hornet                |      22.50 |         19.63
+oldsmobile omega brougham |      26.80 |         21.79
+peugeot 504               |      23.00 |         25.75
+toyota celica gt liftback |      21.10 |         26.60
+opel 1900                 |      25.00 |         29.39
+ford fairmont (man)       |      25.10 |         25.89
+volkswagen rabbit         |      29.00 |         30.58
+oldsmobile cutlass salon brougham |      19.90 |         17.94
+ford galaxie 500          |      15.00 |         13.83
+chevrolet vega (sw)       |      22.00 |         27.30
+buick century 350         |      13.00 |         13.72
+datsun 810                |      22.00 |         24.60
+maxda rx3                 |      18.00 |         27.16
+chrysler lebaron salon    |      17.60 |         19.22
+dodge colt (sw)           |      28.00 |         29.20
+chevrolet monte carlo s   |      15.00 |         14.90
+amc rebel sst             |      16.00 |         16.36
+datsun pl510              |      27.00 |         28.46
+
+===== GRADIENT BOOSTING REGRESSOR =====
+Car Name                  | Actual MPG | Predicted MPG
+-------------------------------------------------------
+renault 12 (sw)           |      26.00 |         26.66
+saab 99gle                |      21.60 |         22.31
+honda civic cvcc          |      36.10 |         34.61
+plymouth cricket          |      26.00 |         28.01
+ford mustang gl           |      27.00 |         27.48
+toyota corolla            |      28.00 |         27.72
+ford country squire (sw)  |      13.00 |         12.80
+toyota corolla liftback   |      26.00 |         28.08
+plymouth valiant custom   |      19.00 |         18.81
+fiat 128                  |      29.00 |         30.37
+amc ambassador dpl        |      15.00 |         13.53
+toyota mark ii            |      19.00 |         20.73
+buick estate wagon (sw)   |      16.90 |         17.82
+toyota corolla            |      29.00 |         26.94
+peugeot 604sl             |      16.20 |         19.62
+chevrolet cavalier        |      28.00 |         29.05
+plymouth duster           |      20.00 |         19.64
+toyota corolla            |      32.40 |         32.74
+amc spirit dl             |      27.40 |         29.02
+triumph tr7 coupe         |      35.00 |         30.53
+plymouth duster           |      22.00 |         20.17
+vw pickup                 |      44.00 |         38.21
+mazda glc 4               |      34.10 |         35.16
+chevrolet chevelle malibu |      18.00 |         15.07
+volkswagen dasher         |      26.00 |         30.77
+fiat 124 sport coupe      |      26.00 |         22.74
+peugeot 504 (sw)          |      21.00 |         19.83
+plymouth satellite custom |      16.00 |         17.96
+volkswagen super beetle   |      26.00 |         26.65
+volkswagen 411 (sw)       |      22.00 |         26.00
+chevrolet bel air         |      15.00 |         14.51
+amc concord               |      19.40 |         20.18
+chevrolet malibu classic (sw) |      19.20 |         18.96
+mazda 626                 |      31.60 |         30.63
+chevrolet caprice classic |      13.00 |         12.98
+datsun 310 gx             |      38.00 |         35.06
+ford gran torino (sw)     |      14.00 |         14.50
+dodge colt hardtop        |      25.00 |         27.87
+ford gran torino (sw)     |      13.00 |         14.62
+ford f250                 |      10.00 |         11.97
+chevrolet chevelle concours (sw) |      13.00 |         14.28
+fiat 128                  |      24.00 |         29.89
+volkswagen rabbit l       |      36.00 |         33.67
+opel manta                |      26.00 |         26.08
+ford ltd                  |      14.00 |         14.99
+chrysler new yorker brougham |      13.00 |         11.73
+pontiac firebird          |      19.00 |         17.25
+fiat strada custom        |      37.30 |         34.54
+chevrolet vega            |      21.00 |         21.44
+vw rabbit                 |      29.00 |         30.81
+ford galaxie 500          |      14.00 |         13.55
+toyota corona hardtop     |      24.00 |         23.36
+chevrolet vega 2300       |      28.00 |         22.81
+nissan stanza xe          |      36.00 |         32.36
+ford granada l            |      22.00 |         27.45
+amc matador               |      16.00 |         16.78
+chevrolet monza 2+2       |      20.00 |         19.11
+amc gremlin               |      20.00 |         19.26
+saab 99e                  |      25.00 |         24.43
+toyota corona             |      25.00 |         24.34
+buick electra 225 custom  |      12.00 |         11.73
+amc hornet                |      22.50 |         19.57
+oldsmobile omega brougham |      26.80 |         26.36
+peugeot 504               |      23.00 |         21.90
+toyota celica gt liftback |      21.10 |         27.35
+opel 1900                 |      25.00 |         26.02
+ford fairmont (man)       |      25.10 |         24.58
+volkswagen rabbit         |      29.00 |         30.65
+oldsmobile cutlass salon brougham |      19.90 |         18.91
+ford galaxie 500          |      15.00 |         13.75
+chevrolet vega (sw)       |      22.00 |         22.28
+buick century 350         |      13.00 |         13.68
+datsun 810                |      22.00 |         21.55
+maxda rx3                 |      18.00 |         26.00
+chrysler lebaron salon    |      17.60 |         23.62
+dodge colt (sw)           |      28.00 |         25.84
+chevrolet monte carlo s   |      15.00 |         13.97
+amc rebel sst             |      16.00 |         14.98
+datsun pl510              |      27.00 |         26.90

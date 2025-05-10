@@ -1,0 +1,101 @@
+<html><head><meta charset='utf-8'>
+<style>
+body { background: #f5f6fa; font-family: Arial, sans-serif; }
+h2 { color: #009879; }
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 1.0em;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.15);
+    width: 80%;
+}
+.styled-table th, .styled-table td {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+.styled-table th {
+    background-color: #009879;
+    color: #ffffff;
+}
+.styled-table tr:nth-child(even) {
+    background-color: #f3f3f3;
+}
+.styled-table tr:hover {
+    background-color: #d1e7dd;
+}
+</style>
+</head><body>
+<h2>New Car MPG Predictions</h2>
+<table class="dataframe styled-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Cylinders</th>
+      <th>Displacement</th>
+      <th>Horsepower</th>
+      <th>Weight</th>
+      <th>Acceleration</th>
+      <th>Model Year</th>
+      <th>Origin</th>
+      <th>Car Name</th>
+      <th>RF_Predicted_MPG</th>
+      <th>SVR_Predicted_MPG</th>
+      <th>GBR_Predicted_MPG</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>4</td>
+      <td>1500</td>
+      <td>100</td>
+      <td>1100</td>
+      <td>12.5</td>
+      <td>2025</td>
+      <td>3</td>
+      <td>hyundai i20</td>
+      <td>31.616</td>
+      <td>22.475965</td>
+      <td>40.550189</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>998</td>
+      <td>67</td>
+      <td>920</td>
+      <td>14.0</td>
+      <td>2025</td>
+      <td>3</td>
+      <td>maruti swift</td>
+      <td>33.201</td>
+      <td>22.475965</td>
+      <td>39.990058</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>2000</td>
+      <td>150</td>
+      <td>1300</td>
+      <td>11.0</td>
+      <td>2025</td>
+      <td>1</td>
+      <td>ford mustang eco</td>
+      <td>22.772</td>
+      <td>22.475965</td>
+      <td>33.022737</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>998</td>
+      <td>90</td>
+      <td>769</td>
+      <td>13.0</td>
+      <td>2017</td>
+      <td>4</td>
+      <td>celerio</td>
+      <td>32.085</td>
+      <td>22.475965</td>
+      <td>39.370388</td>
+    </tr>
+  </tbody>
+</table></body></html>

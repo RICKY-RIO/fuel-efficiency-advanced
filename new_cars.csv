@@ -1,0 +1,5 @@
+Cylinders,Displacement,Horsepower,Weight,Acceleration,Model Year,Origin,Car Name
+4,1500,100,1100,12.5,2025,3,hyundai i20
+3,998,67,920,14.0,2025,3,maruti swift
+6,2000,150,1300,11.0,2025,1,ford mustang eco
+3,998,90,769,13.0,2017,4,celerio
